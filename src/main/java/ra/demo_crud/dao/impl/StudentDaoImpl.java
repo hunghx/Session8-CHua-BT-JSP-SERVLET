@@ -1,6 +1,7 @@
-package ra.demo_crud.dao;
+package ra.demo_crud.dao.impl;
 
-import ra.demo_crud.model.Student;
+import ra.demo_crud.dao.IStudentDao;
+import ra.demo_crud.model.entity.Student;
 import ra.demo_crud.util.ConnectDB;
 
 import java.sql.CallableStatement;

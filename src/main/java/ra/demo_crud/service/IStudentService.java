@@ -1,6 +1,6 @@
 package ra.demo_crud.service;
 
-import ra.demo_crud.model.Student;
+import ra.demo_crud.model.entity.Student;
 
 import java.util.List;
 

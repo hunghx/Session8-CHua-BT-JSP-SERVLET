@@ -5,34 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a51054dc-995e-4280-bf8c-5a0591316c0e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ra/demo_crud/controller/StudentServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ra/demo_crud/dao/IStudentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ra/demo_crud/dao/StudentDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ra/demo_crud/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ra/demo_crud/service/IStudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ra/demo_crud/service/StudentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ra/demo_crud/test/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ra/demo_crud/util/ConnectDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/add.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/edit.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/list-student.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/demo_crud/controller/StudentServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/demo_crud/controller/StudentServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/demo_crud/dao/IStudentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/demo_crud/dao/IStudentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/demo_crud/dao/StudentDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/demo_crud/dao/impl/StudentDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/demo_crud/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/demo_crud/model/entity/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/demo_crud/service/IStudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/demo_crud/service/IStudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/demo_crud/service/StudentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/demo_crud/service/impl/StudentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/demo_crud/test/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +59,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Tomcat Server.Tomcat 9.0.84.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/AD/IdeaProjects/demo_crud/src/main/java/ra/demo_crud/dao",
     "node.js.detected.package.eslint": "true",
@@ -230,7 +210,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704437289980</updated>
-      <workItem from="1704437291141" duration="8031000" />
+      <workItem from="1704437291141" duration="10016000" />
     </task>
     <servers />
   </component>
@@ -246,7 +226,7 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ra/demo_crud/dao/StudentDaoImpl.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/ra/demo_crud/dao/impl/StudentDaoImpl.java</url>
           <line>62</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>

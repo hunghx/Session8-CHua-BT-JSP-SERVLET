@@ -1,8 +1,8 @@
 package ra.demo_crud.controller;
 
-import ra.demo_crud.model.Student;
+import ra.demo_crud.model.entity.Student;
 import ra.demo_crud.service.IStudentService;
-import ra.demo_crud.service.StudentServiceImpl;
+import ra.demo_crud.service.impl.StudentServiceImpl;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
